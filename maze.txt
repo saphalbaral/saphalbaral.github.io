@@ -1,0 +1,11 @@
+//input your maze in this file, can be any maze
+
+**** *****
+*       * 
+**** * ***
+*  4*    *
+*** *****
+*       *
+***2 ****
+*       *
+**** ****

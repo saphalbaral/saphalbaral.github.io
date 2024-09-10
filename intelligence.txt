@@ -1,0 +1,6 @@
+start_position(x, y)
+cwl(current_position)
+move_l(current_position)
+cwf(current_position)
+move_f(current_position)
+mark(current_position)

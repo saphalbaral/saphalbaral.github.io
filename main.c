@@ -1,4 +1,4 @@
-//Group Members: Arafat Farouque, Anirvan Kothuri, and Saphal Baral
+//Created by: Arafat Farouque, Anirvan Kothuri, and Saphal Baral
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
